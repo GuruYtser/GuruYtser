@@ -7,7 +7,7 @@
   <img src="javascript.svg.svg" alt="JavaScript" style="width: 50px; height: 50px; object-fit: contain;">
   <img src="node-js.svg" alt="Node.JS" style="width: 50px; height: 50px; object-fit: contain;">
   <img src="react.png" alt="React" style="width: 50px; height: 50px; object-fit: contain;">
-  <img src="mysql.png" alt="MySQL" style="width: 50px; height: 50px; object-fit: contain;">
-  <img src="py.png" alt="Python" style="width: 50px; height: 50px; object-fit: contain;">
+  <img src="sql.png" alt="MySQL" style="width: 50px; height: 50px; object-fit: contain;">
+  <img src="p.png" alt="Python" style="width: 50px; height: 50px; object-fit: contain;">
 
 </div>
