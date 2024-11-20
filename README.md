@@ -12,6 +12,6 @@
    <img src="exp.png" alt="express" style="width: 50px; height: 50px; object-fit: contain; background-color: white">
    <img src="tail.png" alt="tailwindcss" style="width: 50px; height: 50px; object-fit: contain;">
    <img src="netlify.png" alt="tailwindcss" style="width: 70px; height: 50px; object-fit: contain;">
-   <img src="flask.png" alt="tailwindcss" style="width: 50px; height: 50px; object-fit: contain;">
+   <img src="flask.png" alt="tailwindcss" style="width: 50px; height: 50px; object-fit: contain; background-color: white; border: 1px solid; border-radius: 20px;">
 
 </div>
