@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
-<h1>Technologies that i use</h1><hr>
+<h1>Technologies that i use</h1>
   <img src="html5.svg.svg" alt="HTML5" style="width: 55px; height: 55px; object-fit: contain;">
   <img src="css3.svg.svg" alt="CSS3" style="width: 55px; height: 55px; object-fit: contain;">
   <img src="javascript.svg.svg" alt="JavaScript" style="width: 55px; height: 55px; object-fit: contain;">
