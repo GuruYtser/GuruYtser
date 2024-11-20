@@ -11,7 +11,7 @@
   <img src="p.png" alt="Python" style="width: 50px; height: 50px; object-fit: contain;">
    <img src="exp.png" alt="express" style="width: 50px; height: 50px; object-fit: contain; background-color: white">
    <img src="tail.png" alt="tailwindcss" style="width: 50px; height: 50px; object-fit: contain;">
-   <img src="vercel.png" alt="tailwindcss" style="width: 70px; height: 50px; object-fit: contain;">
+   <img src="vercel.png" alt="tailwindcss" style="width: 90px; height: 50px; object-fit: contain;">
    <img src="netlify.png" alt="tailwindcss" style="width: 70px; height: 50px; object-fit: contain;">
    <img src="flask.png" alt="tailwindcss" style="width: 50px; height: 50px; object-fit: contain;">
 
