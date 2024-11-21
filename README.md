@@ -13,7 +13,7 @@
   <img src="p.png" alt="Python" style="width: 50px; height: 50px; object-fit: contain;">
    <img src="exp.png" alt="express" style="width: 50px; height: 50px; object-fit: contain; background-color: white">
    <img src="tail.png" alt="tailwindcss" style="width: 50px; height: 50px; object-fit: contain;">
-   <img src="frame.png" alt="frameerMotion" style="width: 80px; height: 50px; object-fit: contain;">
+   <img src="frame.png" alt="frameerMotion" style="width: 70px; height: 50px; object-fit: contain;">
 
 
 </div>
