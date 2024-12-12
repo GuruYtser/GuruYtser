@@ -1,19 +1,5 @@
-💻Trinity Proger
+💻Trinity Proger 
 
+# 💻 Technologies that i use:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-<h1>Technologies that i use</h1>
-  <img src="html5.svg.svg" alt="HTML5" style="width: 50px; height: 50px; object-fit: contain;">
-  <img src="css3.svg.svg" alt="CSS3" style="width: 50px; height: 50px; object-fit: contain;">
-  <img src="javascript.svg.svg" alt="JavaScript" style="width: 50px; height: 50px; object-fit: contain;">
-  <img src="node-js.svg" alt="Node.JS" style="width: 50px; height: 50px; object-fit: contain;">
-  <img src="react.png" alt="React" style="width: 50px; height: 50px; object-fit: contain;">
-  <img src="sql.png" alt="MySQL" style="width: 50px; height: 50px; object-fit: contain;"> <br>
-  <img src="p.png" alt="Python" style="width: 50px; height: 50px; object-fit: contain;">
-   <img src="exp.png" alt="express" style="width: 50px; height: 50px; object-fit: contain; background-color: white">
-   <img src="tail.png" alt="tailwindcss" style="width: 50px; height: 50px; object-fit: contain;">
-   <img src="postgres.png" alt="tailwindcss" style="width: 50px; height: 50px; object-fit: contain;">
-
-
-</div>
